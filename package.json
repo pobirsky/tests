@@ -1,0 +1,23 @@
+{
+  "name": "hextlettest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pobirsky/tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pobirsky/tests/issues"
+  },
+  "homepage": "https://github.com/pobirsky/tests#readme"
+}
